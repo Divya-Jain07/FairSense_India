@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 from datetime import datetime
 
-st.set_page_config(page_title="FareSense India", page_icon="🛺", layout="wide")
+st.set_page_config(page_title="FareSense India", page_icon="🚕", layout="wide")
 
 st.markdown("""
 <style>
